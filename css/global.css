@@ -162,6 +162,16 @@ input.submit {
     transition: all 0.4s;
 }
 
+@media (max-width : 992px)
+
+
+{
+    .barrederecherche
+    {
+        display: none;
+    }
+}
+
 .station:hover {
     background-color: #0A90D5;
     color: white;
